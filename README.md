@@ -7,6 +7,9 @@ Creates a line graph in Matplotlib - Overlays a 30-day moving average (MAVG) tre
 another colour
 
 Find the profitability of the following strategy in a date range:
+
 a. Go long on the stock if the 10-day MAVG crosses over the 30-day MAVG
+
 b. Short the stock if the 10-day MAVG crosses below the 30-day MAVG
+
 c. Trade with 1 lot of shares
